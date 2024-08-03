@@ -53,7 +53,7 @@ bash T-Find.sh
 ```
 
 ### Video Demo
-[![T-Find Demo](https://wdevmail.000webhostapp.com/Picsart_23-04-28_13-50-06-115.jpg)](https://youtu.be/BR33UiDZJn8)
+[![T-Find Demo]([https://wdevmail.000webhostapp.com/Picsart_23-04-28_13-50-06-115.jpg](https://static.wixstatic.com/media/b8bdc8_3abbbc56d04f4743b8d552a619614f21~mv2.jpg/v1/fill/w_600,h_337,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Picsart_24-05-15_18-08-38-360.jpg))](https://youtu.be/BR33UiDZJn8)
 
 ### For More Video subcribe <a href="http://youtube.com/techhacker7">Tech Hacker YouTube Channel</a>
 <p>T-Find is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
